@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" role="img" aria-labelledby="title desc">
+  <title id="title">Desk scene illustration</title>
+  <desc id="desc">A tidy workstation illustration with a laptop, code window, notebook, and warm geometric background.</desc>
+  <rect width="720" height="820" fill="#fffdf8"/>
+  <rect x="56" y="58" width="608" height="704" rx="28" fill="#f5efe3" stroke="#ded5c5" stroke-width="3"/>
+  <circle cx="586" cy="154" r="58" fill="#de6b48"/>
+  <path d="M88 222c76-88 182-126 318-114 116 10 199 70 249 178 48 102 30 222-49 318-72 88-176 132-312 132-99 0-174-25-224-76-55-56-76-133-64-231 8-72 36-141 82-207Z" fill="#174b57"/>
+  <rect x="154" y="246" width="414" height="266" rx="18" fill="#17202a"/>
+  <rect x="180" y="282" width="362" height="194" rx="10" fill="#eef7f5"/>
+  <circle cx="194" cy="264" r="6" fill="#de6b48"/>
+  <circle cx="216" cy="264" r="6" fill="#d89a32"/>
+  <circle cx="238" cy="264" r="6" fill="#0e766e"/>
+  <rect x="218" y="318" width="144" height="16" rx="8" fill="#0e766e"/>
+  <rect x="218" y="356" width="254" height="14" rx="7" fill="#9ab8b2"/>
+  <rect x="218" y="390" width="204" height="14" rx="7" fill="#c7d8d5"/>
+  <rect x="218" y="424" width="284" height="14" rx="7" fill="#9ab8b2"/>
+  <rect x="276" y="512" width="170" height="44" rx="9" fill="#17202a"/>
+  <path d="M116 574h490l-42 84H158l-42-84Z" fill="#f7f3eb" stroke="#ded5c5" stroke-width="3"/>
+  <rect x="242" y="604" width="238" height="22" rx="11" fill="#ded5c5"/>
+  <rect x="113" y="666" width="494" height="26" rx="13" fill="#d89a32"/>
+  <rect x="428" y="142" width="88" height="130" rx="12" fill="#fffdf8" stroke="#ded5c5" stroke-width="3"/>
+  <path d="M450 175h44M450 203h28M450 231h38" stroke="#0e766e" stroke-width="10" stroke-linecap="round"/>
+  <rect x="112" y="144" width="124" height="82" rx="18" fill="#fffdf8" stroke="#ded5c5" stroke-width="3"/>
+  <path d="M138 184h72" stroke="#de6b48" stroke-width="12" stroke-linecap="round"/>
+</svg>
